@@ -3,7 +3,8 @@ Zobacz to https://help.github.com/en/github/working-with-github-pages/creating-a
 
 Dowiesz sie z tego, ze ...
 1. Jezeli chcesz aby repozytorium bylo strona glowna,
-to nazwa repozytorium musi byc podobna do " nazwa_uzytkowniaka.github.io ".
+to nazwa repozytorium musi byc podobna do 
+<code> nazwa_uzytkowniaka.github.io </code>
 
 2. Strony mozesz tworzyc w
 - Markdown, wtydy glowny plik w repozytorium musi miec nazwe index.md
